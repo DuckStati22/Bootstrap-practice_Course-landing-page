@@ -31,7 +31,7 @@ header, footer {
 }
 
 section {
-    padding: 100px 0;
+    padding: 70px 0;
 }
 
 .play-btn {
@@ -145,8 +145,12 @@ section {
     padding-bottom: 0;
 }
 
-.author-img {
+.image-container {
     max-width: 450px;
+}
+
+.author-img {
+    /* max-width: 450px; */
 }
 
 .rounded {
